@@ -7,7 +7,7 @@
 #include "Struct.h"
 #include "func.h"
 
-//Authors :Zah Tayar Id :203133681 , Bar Yaakobi Id:315471367 !!
+//Authors :Zah Tayar Id :203133681 
 //***************--------------***************
 
 
